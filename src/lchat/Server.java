@@ -136,7 +136,7 @@ public class Server extends JFrame implements ActionListener{
         b1.addActionListener(this);
         f1.add(b1);
         
-        
+        //uudguagfaiiai
         
         f1.getContentPane().setBackground(Color.WHITE);
         f1.setLayout(null);
