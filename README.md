@@ -1,1 +1,1 @@
-# LChat
+# LChat (Chatting Application)
